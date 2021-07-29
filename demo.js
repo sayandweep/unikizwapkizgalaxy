@@ -2,7 +2,7 @@ setTimeout(() => {
  
 $(function() {
 // Check if href is changed
-if ($("#mycontent").attr("href") != "https://myfiles.wapka.xyz/unikiz") {
+if ($("#mycontent").attr("href") != "https://mylinks.wapka.xyz/unikiz") {
  window.location.href = "https://wa.me/+917318839342?text=Hello%20Unikiz";
  }
 // Check if tag is hidden
